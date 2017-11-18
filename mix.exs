@@ -52,10 +52,10 @@ defmodule Steamex.Mixfile do
   defp package do
     [
       files: ["lib", "mix.exs", "README.md", "LICENSE"],
-      maintainers: ["Eric Entin"],
+      maintainers: ["Eric Entin", "Nikolai Leesker"],
       licenses: ["Apache 2.0"],
       links: %{
-        "GitHub" => "https://github.com/antipax/steamex"
+        "GitHub" => "https://github.com/ThermalCube/steamex"
       }
     ]
   end
